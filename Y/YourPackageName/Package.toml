@@ -1,0 +1,3 @@
+name = "YourPackageName"
+uuid = "082d4d8f-047d-4e93-9fc6-f25d017606c9"
+repo = "https://github.com/pertft/YourPackageName.jl"

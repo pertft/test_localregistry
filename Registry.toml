@@ -4,3 +4,4 @@ repo = "https://github.com/pertft/test_localregistry.git"
 description = "My private registry"
 
 [packages]
+082d4d8f-047d-4e93-9fc6-f25d017606c9 = { name = "YourPackageName", path = "Y/YourPackageName" }
