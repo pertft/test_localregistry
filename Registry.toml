@@ -1,0 +1,6 @@
+name = "test_localregistry"
+uuid = "8855149e-2a54-4e4a-8a86-e55e4068c434"
+repo = "https://github.com/pertft/test_localregistry.git"
+description = "My private registry"
+
+[packages]
